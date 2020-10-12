@@ -1,2 +1,2 @@
 # Complete-ML-with-Python
-Will cover all possible topics  I can to describe creating Machine Learning Model with Python. Have fun learning it!
+Will cover all possible topics which I can do, to describe how to create Machine Learning Model with Python. Have fun learning it!
